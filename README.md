@@ -24,7 +24,7 @@
 
 ## 📲 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shrikishan-raibagi-ba3991332/)
-- 📧 Email: shrikisahan.raibagi@gmail.com
+- 📧 Email: shrikishan.raibagi@gmail.com
 
 ---
 
