@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m ShriKishan Raibagi
 
-<!--
-**Shrikishan-raibagi/shrikishan-raibagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at Cambridge Institute of Technology (VTU)  
+🌟 Aspiring AI Cloud Engineer | Currently learning Python, Machine Learning, and Cloud Computing.  
+📈 My Goal: To master AI and Cloud technologies and land a 30 LPA job in 10 months.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- 💻 Python, Data Structures & Algorithms (LeetCode Progress: Beginner)  
+- 📊 Data Analysis (NumPy, Pandas, Matplotlib)  
+- 🤖 Machine Learning (Scikit-Learn, TensorFlow - coming soon)  
+- ☁️ Cloud Computing (AWS, Docker, Kubernetes - coming soon)  
+- 🔧 Tools: Git, GitHub, Visual Studio Code  
+
+---
+
+## 📈 Learning Progress (Updated Weekly)
+- 🔥 [100 Days of Code: Python Bootcamp - Udemy](link to your course)
+- 📚 LeetCode Profile: [Link to your LeetCode profile]
+- 📁 Projects: (Will add as I progress)  
+
+---
+
+## 📲 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/shrikishan-raibagi-ba3991332/)
+- 📧 Email: (Your Email Address)  
+
+---
+
+💪 *Documenting my journey to become an AI Cloud Engineer. Stay tuned for more updates!*
