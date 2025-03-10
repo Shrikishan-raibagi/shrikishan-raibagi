@@ -16,7 +16,7 @@
 ---
 
 ## 📈 Learning Progress (Updated Weekly)
-- 🔥 [100 Days of Code: Python Bootcamp - Udemy](link to your course)
+- 🔥 [100 Days of Code: Python Bootcamp - Udemy](https://www.udemy.com/course/100-days-of-code/learn/lecture/17965122#overview)
 - 📚 LeetCode Profile: [Link to your LeetCode profile]
 - 📁 Projects: (Will add as I progress)  
 
@@ -24,7 +24,7 @@
 
 ## 📲 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shrikishan-raibagi-ba3991332/)
-- 📧 Email: (Your Email Address)  
+- 📧 Email: shrikisahan.raibagi@gmail.com
 
 ---
 
