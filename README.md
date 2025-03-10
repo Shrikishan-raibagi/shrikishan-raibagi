@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student at Cambridge Institute of Technology (VTU)  
 🌟 Aspiring AI Cloud Engineer | Currently learning Python, Machine Learning, and Cloud Computing.  
-📈 My Goal: To master AI and Cloud technologies and land a 30 LPA job in 10 months.  
+📈 My Goal: To master AI and Cloud technologies and land a job in 10 months.  
 
 ---
 
