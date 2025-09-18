@@ -1,8 +1,8 @@
 # 👋 Hi, I’m ShriKishan Raibagi
 
-🎓 Computer Science Engineering Student at Cambridge Institute of Technology (VTU)  
+🎓 Information Science Engineering Student at Cambridge Institute of Technology (VTU)  
 🌟 Aspiring AI Cloud Engineer | Currently learning Python, Machine Learning, and Cloud Computing.  
-📈 My Goal: To master AI and Cloud technologies and land a job in 10 months.  
+📈 My Goal: To master AI and Cloud technologies and land a job in 7 months.  
 
 ---
 
@@ -15,12 +15,6 @@
 
 ---
 
-## 📈 Learning Progress (Updated Weekly)
-- 🔥 [100 Days of Code: Python Bootcamp - Udemy](https://www.udemy.com/course/100-days-of-code/learn/lecture/17965122#overview)
-- 📚 LeetCode Profile: [Link to your LeetCode profile]
-- 📁 Projects: (Will add as I progress)  
-
----
 
 ## 📲 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shrikishan-raibagi-ba3991332/)
